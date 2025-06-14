@@ -1,0 +1,121 @@
+[
+	{
+		"title": "Backend developer",
+		"type": "Full-time",
+		"company": "SUPERFUTUREKOMPANY",
+		"date_start": "September 2024",
+		"date_end": "Present",
+		"descriptions": [
+			"Architected and implemented RESTful APIs using Laravel and NestJS, adhering to industry standards for HTTP methods, status codes, and JSON formatting",
+			"Engineered robust authentication and authorization systems, enhancing application security across multiple project",
+			"Optimized database performance through efficient schema design and strategic indexing, resulting in 30% faster query execution.",
+			"Integrated multiple third-party APIs (Microsoft, WhatsApp, Google) using Laravel's HTTP clients with comprehensive error handling and retry mechanism",
+			"Established and maintained comprehensive logging and monitoring systems, ensuring 99.9% application uptime"
+		]
+	},
+	{
+		"title": "Mendix Developer",
+		"type": "Freelance",
+		"company": "PT Anomali Trans Teknologi",
+		"date_start": "September 2024",
+		"date_end": "September 2024",
+		"descriptions": [
+			"Delivered custom Mendix applications for PT KAI Indonesia, focusing on rapid low-code development to meet critical business requirements",
+			"Collaborated with cross-functional teams to translate complex business logic into functional applications within tight deadlines"
+		]
+	},
+	{
+		"title": "Application Developer Officer",
+		"type": "Full-time",
+		"company": "PT Anomali Trans Teknologi",
+		"date_start": "June 2023",
+		"date_end": "September 2024",
+		"descriptions": [
+			"Designed and optimized PostgreSQL database schemas supporting high-volume web applications",
+			"Developed and maintained full-stack web applications using Laravel's MVC architecture with focus on data integrity and security",
+			"Implemented Eloquent ORM for efficient data interactions, reducing code complexity by 25",
+			"Expanded technical versatility by learning and implementing solutions using Mendix low-code platform and ASP.NET",
+			"Facilitated seamless collaboration between design and product teams, ensuring alignment of technical implementations with user requirements"
+		]
+	},
+	{
+		"title": "Web Developer",
+		"type": "Freelance",
+		"company": "Self Employed",
+		"date_start": "May 2024",
+		"date_end": "March 2025",
+		"descriptions": [
+			"Engaged closely with clients to understand their goals, target audience, and desired functionalities, documenting all requirements and defining the project scope",
+			"Designed wireframes and prototypes with iterative client feedback",
+			"Leveraged an RDBMS like MySQL, applying database normalization and creating ERDs for clear table relationships",
+			"Developed using Laravel's MVC architecture, utilizing Eloquent for database interactions, Composer for dependency management, and Pest for unit testing",
+			"Implemented Git for version control and relied on project management tools like Trello and Notion to track tasks and milestones, adopting Agile methodologies",
+			"Ensured smooth deployment by setting up development, staging, and production environments and incorporating CI/CD pipelines for automated testing and deployment"
+		]
+	},
+	{
+		"title": "Backend developer",
+		"type": "Freelance",
+		"company": "PT SEJE DIGITAL UTAMA",
+		"date_start": "October 2023",
+		"date_end": "May 2024",
+		"descriptions": [
+			[
+				"Engineered secure and optimized APIs for data exchange between web applications and external services including Hue Huy & Aku Hadir API",
+				"Implemented comprehensive security measures including data validation, sanitization, and encryption to protect against common vulnerabilities",
+				"Created detailed API documentation and versioning protocols, ensuring smooth integration for front-end teams and third-party consumers",
+				"Collaborated with front-end developers to design intuitive API endpoints, reducing implementation time by 40%"
+			]
+		]
+	},
+	{
+		"title": "Laravel Developer",
+		"type": "Freelance",
+		"company": "Intive Studio",
+		"date_start": "June 2023",
+		"date_end": "March 2024",
+		"descriptions": [
+			"Built custom ERP web applications handling multi-currency transactions with 100% accuracy in financial data management.",
+			"Architected efficient database structures supporting complex business logic for enterprise client.",
+			"Resolved critical system issues through advanced debugging and code analysis, reducing system downtime by 50%"
+		]
+	},
+	{
+		"title": "Web App Developer",
+		"type": "Full-time",
+		"company": "Intive Studio",
+		"date_start": "July 2022",
+		"date_end": "June 2023",
+		"descriptions": [
+			"Served as core developer for custom ERP web applications, designing scalable architectures for enterprise clientu",
+			"Implemented comprehensive ERP modules including Purchase, Sales, Delivery, Invoice, Warehouse, Master Data, Finance, and Hc",
+			"Mentored junior developers on complex algorithms and Laravel best practices, improving team productivity by 35",
+			"Led code reviews ensuring high-quality, maintainable code through rigorous standards and best practices"
+		]
+	},
+	{
+		"title": "Backend developer",
+		"type": "Full-time",
+		"company": "SEJE DIGITAL",
+		"date_start": "January 2022",
+		"date_end": "July 2022",
+		"descriptions": [
+			"Conducted thorough quality assurance and testing, reducing production issues by 75%",
+			"Integrated multiple third-party APIs using Laravel, expanding application functionality while maintaining robust error handling",
+			"Utilized workflow charts and diagrams to plan and optimize code structure for maintainability"
+		]
+	},
+	{
+		"title": "Software Engineer",
+		"type": "Internship",
+		"company": "PT Promedia Citra Informatindo",
+		"date_start": "January 2021",
+		"date_end": "June 2021",
+		"descriptions": [
+			"Identified and resolved bugs in existing systems, improving overall system stability and user satisfaction",
+			"Created comprehensive technical documentation and user manuals for complex software applications",
+			"Developed Android applications using Java and created APIs for mobile app integration",
+			"Gained versatility by working with both Laravel and Yii frameworks based on project requirements"
+		]
+	}
+]
