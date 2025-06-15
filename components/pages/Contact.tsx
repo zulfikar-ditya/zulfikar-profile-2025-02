@@ -4,8 +4,6 @@ import {
 	Instagram,
 	Linkedin,
 	Github,
-	Phone,
-	SunMedium,
 	Newspaper,
 } from "lucide-react";
 
