@@ -1,3 +1,4 @@
+"use client";
 import React from "react";
 import Link from "next/link";
 
@@ -11,6 +12,13 @@ import profile from "../../app/mock/profile.json";
 import ProfileCard from "../reactbits/ProfileCard/ProfileCard";
 
 function Hero() {
+	const handleScroll = () => {
+		const el = document.getElementById("contact");
+		if (el) {
+			el.scrollIntoView({ behavior: "smooth" });
+		}
+	};
+
 	return (
 		<>
 			<section className="min-h-screen container mx-auto px-4 py-20 w-screen flex flex-col items-start justify-center">
@@ -80,7 +88,7 @@ function Hero() {
 							</Button>
 						</Link>
 					</div>
-					<div>
+					<div className="mt-12 lg:mt-0 flex items-center justify-center lg:justify-end">
 						<ProfileCard
 							name={profile.name}
 							title="Backend Developer"
@@ -93,11 +101,7 @@ function Hero() {
 							showBehindGradient={true}
 							// grainUrl=""
 							enableTilt={true}
-							onContactClick={() =>
-								document
-									.getElementById("contact-us")
-									?.scrollIntoView({ behavior: "smooth" })
-							}
+							onContactClick={() => handleScroll()}
 						/>
 					</div>
 				</div>

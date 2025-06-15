@@ -47,6 +47,7 @@
 	transform: scale(0.8) translate3d(0, 0, 0.1px);
 	background-size: 100% 100%;
 	background-image: var(--behind-gradient);
+	width: 60%;
 }
 
 .pc-card-wrapper:hover,
