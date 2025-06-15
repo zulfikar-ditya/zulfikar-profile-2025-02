@@ -1,25 +1,25 @@
 {
-	"languages": ["PHP", "JavaScript", "TypeScript", "Golang", "Python"],
+	"languages": ["PHP", "TypeScript", "JavaScript", "Golang", "Python"],
 	"frameworks": [
 		"Laravel",
-		"NestJS, Express, Elisya, Hono",
+		"NestJS, Express, Elysia, Hono",
 		"ASP.NET",
 		"Mendix"
 	],
-	"databases": ["MySQL", "PostgreSQL", "MongoDB", "Redis", "SQLite"],
+	"databases": ["PostgreSQL", "MySQL", "MongoDB", "Redis", "SQLite"],
 	"frontend": [
-		"React",
 		"Next.js",
 		"TailwindCSS",
-		"Bootstrap",
+		"Alpine.js",
+		"React",
 		"jQuery",
-		"Alpine.js"
+		"Bootstrap"
 	],
 	"devOps": ["Git", "GitHub / GitLab", "CI/CD", "GitHub Actions", "Docker"],
 	"methodologies": [
-		"Agile",
 		"MVC Architecture",
 		"API Design",
-		"Database Normalization"
+		"Database Normalization",
+		"Agile"
 	]
 }
