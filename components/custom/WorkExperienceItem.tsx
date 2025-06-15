@@ -27,8 +27,10 @@ export default function WorkExperienceItem({
 				<div className="ml-16 bg-gray-900 rounded-lg shadow-2xl p-6 border-l-4 border-[#00bba7]">
 					<div className="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-3">
 						<h3 className="text-xl font-bold text-gray-300">{title}</h3>
-						<span className="inline-block px-3 py-1 text-sm border border-teal-400 text-teal-500 rounded-full">
-							{type}
+						<span className="">
+							<div className="inline-block px-3 py-1 text-sm border border-teal-400 text-teal-500 rounded-full">
+								{type}
+							</div>
 						</span>
 					</div>
 

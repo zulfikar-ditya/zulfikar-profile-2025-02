@@ -6,6 +6,9 @@ import Particles from "@/components/reactbits/Particles/Particles";
 import Ribbons from "@/components/reactbits/Ribbons/Ribbons";
 import WorkExperience from "@/components/pages/WorkExperience";
 import Weapons from "@/components/pages/Weapons";
+import Education from "@/components/pages/Education";
+import Awards from "@/components/pages/Award";
+import Contact from "@/components/pages/Contact";
 
 export default function HomePage() {
 	return (
@@ -37,6 +40,9 @@ export default function HomePage() {
 			<AboutMe />
 			<WorkExperience />
 			<Weapons />
+			<Awards />
+			<Education />
+			<Contact />
 		</>
 	);
 }

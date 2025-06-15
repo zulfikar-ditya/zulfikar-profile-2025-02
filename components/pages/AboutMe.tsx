@@ -11,7 +11,7 @@ export default function AboutMe() {
 					className="container mx-auto px-4 py-12 min-h-[50vh] flex flex-col justify-center"
 					id="about-me"
 				>
-					<div className="grid grid-cols-2 gap-4 mb-8">
+					<div className="grid grid-cols-1 lg:grid-cols-2 gap-4 mb-8">
 						<div className="my-auto">
 							<BlurText
 								text="About Me."
