@@ -1,5 +1,5 @@
 import React from "react";
-import SpotlightCard from "../reactbits/SpotlightCard/SpotlightCard";
+import SpotlightCard from "../../reactbits/SpotlightCard/SpotlightCard";
 
 interface WeaponItemProps {
 	title: string;

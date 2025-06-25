@@ -1,6 +1,6 @@
 import React from "react";
-import aboutme from "../../app/mock/about-me.json";
-import BlurText from "../reactbits/BlurText/BlurText";
+import aboutme from "@app/mock/about-me.json";
+import BlurText from "@components/reactbits/BlurText/BlurText";
 
 export default function AboutMe() {
 	const aboutME = aboutme.AboutMe;

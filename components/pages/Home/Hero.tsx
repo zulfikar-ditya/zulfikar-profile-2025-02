@@ -2,14 +2,18 @@
 import React from "react";
 import Link from "next/link";
 
-import SplitText from "../reactbits/SplitText/SplitText";
-import GradientText from "../reactbits/GradientText/GradientText";
-import DecryptedText from "../reactbits/DecryptedText/DecryptedText";
+// import SplitText from "../reactbits/SplitText/SplitText";
+// import GradientText from "../reactbits/GradientText/GradientText";
+// import DecryptedText from "../reactbits/DecryptedText/DecryptedText";
 
-import { Button } from "../ui/button";
+// import { Button } from "../ui/button";
 
-import profile from "../../app/mock/profile.json";
-import ProfileCard from "../reactbits/ProfileCard/ProfileCard";
+import profile from "../../../app/mock/profile.json";
+import ProfileCard from "../../reactbits/ProfileCard/ProfileCard";
+import SplitText from "@components/reactbits/SplitText/SplitText";
+import GradientText from "@components/reactbits/GradientText/GradientText";
+import DecryptedText from "@components/reactbits/DecryptedText/DecryptedText";
+import { Button } from "@components/ui";
 
 function Hero() {
 	const handleScroll = () => {

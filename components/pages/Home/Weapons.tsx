@@ -1,7 +1,8 @@
 import React from "react";
-import ScrollFloat from "../reactbits/ScrollFloat/ScrollFloat";
-import weaponData from "../../app/mock/skills.json";
-import WeaponItem from "../custom/WeaponItem";
+
+import weaponData from "@app/mock/skills.json";
+import ScrollFloat from "@components/reactbits/ScrollFloat/ScrollFloat";
+import WeaponItem from "@components/custom/Weapon/WeaponItem";
 
 export default function Weapons() {
 	const { languages, frameworks, databases, frontend, devOps, methodologies } =

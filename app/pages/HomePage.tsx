@@ -1,22 +1,41 @@
 "use client";
 
-import Hero from "@/components/pages/Hero";
-import AboutMe from "../../components/pages/AboutMe";
-import Particles from "@/components/reactbits/Particles/Particles";
-import Ribbons from "@/components/reactbits/Ribbons/Ribbons";
-import WorkExperience from "@/components/pages/WorkExperience";
-import Weapons from "@/components/pages/Weapons";
-import Education from "@/components/pages/Education";
-import Awards from "@/components/pages/Award";
-import Contact from "@/components/pages/Contact";
+import AboutMe from "@components/pages/Home/AboutMe";
+import Awards from "@components/pages/Home/Award";
+import Contact from "@components/pages/Home/Contact";
+import Education from "@components/pages/Home/Education";
+import Hero from "@components/pages/Home/Hero";
+import Weapons from "@components/pages/Home/Weapons";
+import WorkExperience from "@components/pages/Home/WorkExperience";
 
-export default function HomePage() {
+import Particles from "@components/reactbits/Particles/Particles";
+import Ribbons from "@components/reactbits/Ribbons/Ribbons";
+
+export function HomePage() {
 	return (
 		<>
 			<div className="fixed top-0 left-0 w-screen h-screen overflow-hidden z-[-1]">
 				<Particles
-					particleColors={["#00bba7", "#e60076", "#0084d1"]}
-					particleCount={400}
+					particleColors={[
+						"#ef4444",
+						"#f97316",
+						"#f59e0b",
+						"#eab308",
+						"#84cc16",
+						"#22c55e",
+						"#10b981",
+						"#14b8a6",
+						"#06b6d4",
+						"#0ea5e9",
+						"#3b82f6",
+						"#6366f1",
+						"#8b5cf6",
+						"#a855f7",
+						"#d946ef",
+						"#ec4899",
+						"#f43f5e",
+					]}
+					particleCount={500}
 					particleSpread={10}
 					speed={0.4}
 					particleBaseSize={150}

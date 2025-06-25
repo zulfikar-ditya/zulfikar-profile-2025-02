@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
-import TrueFocus from "../reactbits/TrueFocus/TrueFocus";
-import workExperience from "../../app/mock/experiences.json";
-import WorkExperienceItem from "../custom/WorkExperienceItem";
+import TrueFocus from "../../reactbits/TrueFocus/TrueFocus";
+import workExperience from "../../../app/mock/experiences.json";
+import WorkExperienceItem from "../../custom/WorkExperience/WorkExperienceItem";
 import AOS from "aos";
 import "aos/dist/aos.css";
 
