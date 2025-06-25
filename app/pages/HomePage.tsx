@@ -16,10 +16,10 @@ export default function HomePage() {
 			<div className="fixed top-0 left-0 w-screen h-screen overflow-hidden z-[-1]">
 				<Particles
 					particleColors={["#00bba7", "#e60076", "#0084d1"]}
-					particleCount={300}
-					particleSpread={15}
-					speed={0.3}
-					particleBaseSize={120}
+					particleCount={400}
+					particleSpread={10}
+					speed={0.4}
+					particleBaseSize={150}
 					moveParticlesOnHover={true}
 					alphaParticles={true}
 					disableRotation={false}
