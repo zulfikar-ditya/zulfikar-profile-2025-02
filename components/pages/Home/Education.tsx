@@ -1,7 +1,7 @@
 import { GraduationCap } from "lucide-react";
-import EducationItem from "../custom/Educationitem";
 
-import MockEducation from "../../app/mock/educations.json";
+import MockEducation from "@app/mock/educations.json";
+import EducationItem from "@components/custom/Education/Educationitem";
 
 interface EducationData {
 	institution: string;

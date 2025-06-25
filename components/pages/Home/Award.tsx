@@ -1,7 +1,7 @@
-import AwardItem from "../custom/AwardItem";
 import { Award } from "lucide-react";
 
-import MockAwards from "../../app/mock/awards.json";
+import MockAwards from "@app/mock/awards.json";
+import AwardItem from "@components/custom/Award/AwardItem";
 
 interface AwardData {
 	title: string;

@@ -7,7 +7,7 @@ import {
 	Newspaper,
 } from "lucide-react";
 
-import MockProfile from "../../app/mock/profile.json";
+import MockProfile from "@app/mock/profile.json";
 
 export default function Contact() {
 	const profile = MockProfile;
