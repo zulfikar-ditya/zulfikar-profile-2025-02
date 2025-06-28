@@ -1,15 +1,12 @@
 "use client";
 
 import AboutMe from "@components/pages/Home/AboutMe";
-import Awards from "@components/pages/Home/Award";
-import Contact from "@components/pages/Home/Contact";
-import Education from "@components/pages/Home/Education";
 import Hero from "@components/pages/Home/Hero";
-import Weapons from "@components/pages/Home/Weapons";
 import WorkExperience from "@components/pages/Home/WorkExperience";
 
 import Particles from "@components/reactbits/Particles/Particles";
 import Ribbons from "@components/reactbits/Ribbons/Ribbons";
+import FloatContact from "@components/custom/FloatContact/FloatContact";
 
 export function HomePage() {
 	return (
@@ -58,10 +55,8 @@ export function HomePage() {
 			<Hero />
 			<AboutMe />
 			<WorkExperience />
-			<Weapons />
-			<Awards />
-			<Education />
-			<Contact />
+
+			<FloatContact />
 		</>
 	);
 }

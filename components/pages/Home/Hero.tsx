@@ -2,12 +2,6 @@
 import React from "react";
 import Link from "next/link";
 
-// import SplitText from "../reactbits/SplitText/SplitText";
-// import GradientText from "../reactbits/GradientText/GradientText";
-// import DecryptedText from "../reactbits/DecryptedText/DecryptedText";
-
-// import { Button } from "../ui/button";
-
 import profile from "../../../app/mock/profile.json";
 import ProfileCard from "../../reactbits/ProfileCard/ProfileCard";
 import SplitText from "@components/reactbits/SplitText/SplitText";
@@ -92,7 +86,7 @@ function Hero() {
 							</Button>
 						</Link>
 					</div>
-					<div className="mt-12 lg:mt-0 flex items-center justify-center lg:justify-end">
+					<div className="mt-12 lg:mt-0 hidden lg:flex items-center justify-center lg:justify-end">
 						<ProfileCard
 							name={profile.name}
 							title="Backend Developer"

@@ -1,4 +1,2 @@
-export * from "./Award/AwardItem";
-export * from "./Education/Educationitem";
-export * from "./Weapon/WeaponItem";
+export * from "./FloatContact/FloatContact";
 export * from "./WorkExperience/WorkExperienceItem";

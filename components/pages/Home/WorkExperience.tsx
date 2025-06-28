@@ -40,6 +40,7 @@ export default function WorkExperience() {
 									date_start={experience.date_start}
 									date_end={experience.date_end}
 									company={experience.company}
+									skills={experience.skills || []}
 									description={
 										Array.isArray(experience.descriptions)
 											? experience.descriptions.flat()

@@ -5,6 +5,13 @@
 		"company": "SUPERFUTUREKOMPANY",
 		"date_start": "September 2024",
 		"date_end": "Present",
+		"skills": [
+			"Laravel",
+			"NestJS",
+			"PostgreSQL",
+			"API Integration",
+			"API Development"
+		],
 		"descriptions": [
 			"Architected and implemented RESTful APIs using Laravel and NestJS, adhering to industry standards for HTTP methods, status codes, and JSON formatting",
 			"Engineered robust authentication and authorization systems, enhancing application security across multiple project",
@@ -19,6 +26,7 @@
 		"company": "PT Anomali Trans Teknologi",
 		"date_start": "September 2024",
 		"date_end": "September 2024",
+		"skills": ["Mendix", "Low-code Development", "PostgreSQL"],
 		"descriptions": [
 			"Delivered custom Mendix applications for PT KAI Indonesia, focusing on rapid low-code development to meet critical business requirements",
 			"Collaborated with cross-functional teams to translate complex business logic into functional applications within tight deadlines"
@@ -30,6 +38,7 @@
 		"company": "PT Anomali Trans Teknologi",
 		"date_start": "June 2023",
 		"date_end": "September 2024",
+		"skills": ["Laravel", "MySql", "PostgreSQL", "Mendix", "ASP.NET"],
 		"descriptions": [
 			"Designed and optimized PostgreSQL database schemas supporting high-volume web applications",
 			"Developed and maintained full-stack web applications using Laravel's MVC architecture with focus on data integrity and security",
@@ -44,6 +53,16 @@
 		"company": "Self Employed",
 		"date_start": "May 2024",
 		"date_end": "March 2025",
+		"skills": [
+			"Laravel",
+			"Pest Testing",
+			"MySQL",
+			"Git",
+			"CI/CD",
+			"Notion",
+			"Deployment",
+			"Database Architecture"
+		],
 		"descriptions": [
 			"Engaged closely with clients to understand their goals, target audience, and desired functionalities, documenting all requirements and defining the project scope",
 			"Designed wireframes and prototypes with iterative client feedback",
@@ -59,13 +78,18 @@
 		"company": "PT SEJE DIGITAL UTAMA",
 		"date_start": "October 2023",
 		"date_end": "May 2024",
+		"skills": [
+			"Laravel",
+			"API Development",
+			"Security Implementation",
+			"API Documentation",
+			"API Integration"
+		],
 		"descriptions": [
-			[
-				"Engineered secure and optimized APIs for data exchange between web applications and external services including Hue Huy & Aku Hadir API",
-				"Implemented comprehensive security measures including data validation, sanitization, and encryption to protect against common vulnerabilities",
-				"Created detailed API documentation and versioning protocols, ensuring smooth integration for front-end teams and third-party consumers",
-				"Collaborated with front-end developers to design intuitive API endpoints, reducing implementation time by 40%"
-			]
+			"Engineered secure and optimized APIs for data exchange between web applications and external services including Hue Huy & Aku Hadir API",
+			"Implemented comprehensive security measures including data validation, sanitization, and encryption to protect against common vulnerabilities",
+			"Created detailed API documentation and versioning protocols, ensuring smooth integration for front-end teams and third-party consumers",
+			"Collaborated with front-end developers to design intuitive API endpoints, reducing implementation time by 40%"
 		]
 	},
 	{
@@ -74,6 +98,14 @@
 		"company": "Intive Studio",
 		"date_start": "June 2023",
 		"date_end": "March 2024",
+		"skills": [
+			"Laravel",
+			"ERP Development",
+			"Multi-currency Systems",
+			"Database Architecture",
+			"ERP Development",
+			"Debugging"
+		],
 		"descriptions": [
 			"Built custom ERP web applications handling multi-currency transactions with 100% accuracy in financial data management.",
 			"Architected efficient database structures supporting complex business logic for enterprise client.",
@@ -86,6 +118,13 @@
 		"company": "Intive Studio",
 		"date_start": "July 2022",
 		"date_end": "June 2023",
+		"skills": [
+			"Laravel",
+			"Financial Systems",
+			"Hr Management Systems",
+			"Warehouse Management Systems",
+			"ERP Systems"
+		],
 		"descriptions": [
 			"Served as core developer for custom ERP web applications, designing scalable architectures for enterprise clientu",
 			"Implemented comprehensive ERP modules including Purchase, Sales, Delivery, Invoice, Warehouse, Master Data, Finance, and Hc",
@@ -99,6 +138,13 @@
 		"company": "SEJE DIGITAL",
 		"date_start": "January 2022",
 		"date_end": "July 2022",
+		"skills": [
+			"Laravel",
+			"API Integration",
+			"Quality Assurance",
+			"Testing",
+			"Third-party APIs"
+		],
 		"descriptions": [
 			"Conducted thorough quality assurance and testing, reducing production issues by 75%",
 			"Integrated multiple third-party APIs using Laravel, expanding application functionality while maintaining robust error handling",
@@ -111,6 +157,14 @@
 		"company": "PT Promedia Citra Informatindo",
 		"date_start": "January 2021",
 		"date_end": "June 2021",
+		"skills": [
+			"Laravel",
+			"Yii Framework",
+			"Java",
+			"Android Development",
+			"API Development",
+			"Documentation"
+		],
 		"descriptions": [
 			"Identified and resolved bugs in existing systems, improving overall system stability and user satisfaction",
 			"Created comprehensive technical documentation and user manuals for complex software applications",
